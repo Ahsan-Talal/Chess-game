@@ -29,4 +29,4 @@ git clone https://github.com/Ahsan-Talal/Chess-game.git
 npm install
 
 # Start development server
-node server.js
+node app.js
